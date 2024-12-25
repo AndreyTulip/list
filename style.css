@@ -1,4 +1,15 @@
 ul{
-  list-style: url("");
+  list-style: url("flower.png");
+}
 
+header{
+  background-color: #E5FA8B;
+}
+
+main{
+  background-color: #A17BD0;
+}
+
+footer{
+  background-color: #FFE38E;
 }
